@@ -2,9 +2,9 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  database: "my_db_001",
+  database: "server_H5",
   username: 'root',
-  password: '12345678',
+  password: 's0313y1127',
 });
 
 // 简单查询

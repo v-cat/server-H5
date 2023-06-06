@@ -3,7 +3,7 @@ const {
   Sequelize
 } = require('sequelize');
 
-const sequelize = new Sequelize('my_db_001', 'root', '12345678', {
+const sequelize = new Sequelize('server_H5', 'root', 's0313y1127', {
   host: 'localhost',
   dialect: 'mysql' /* one of 'mysql' | 'postgres' | 'sqlite' | 'mariadb' | 'mssql' | 'db2' | 'snowflake' | 'oracle' */
 });
